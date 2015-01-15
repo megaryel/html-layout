@@ -1,0 +1,31 @@
+
+html, body {
+	width:100%;
+	height:100%;
+	margin: 0px;
+}
+
+.top, .middle, .bottom {
+	width:33%;
+	height:100%;
+	float: left;
+}
+.top {
+	background:#4A90E2;
+}
+.middle{
+	background:#50E3C2;
+}
+
+.bottom{
+	background: #B8E986;
+}
+
+.image{
+	width:100%;
+	height:33%;
+	background: url(http://lacuadramagazine.com/wp-content/uploads/sangeh-monkey-forest-101.jpg);
+	margin-top: 122.5%;
+}
+
+
